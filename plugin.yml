@@ -1,0 +1,7 @@
+name: SilentJoin
+main: tk.complexicon.silentjoin.Main
+version: 0.1
+commands:
+  joinlog:
+    description: Shows the Log of Last Joined and Leaved.
+    usage: /<command>

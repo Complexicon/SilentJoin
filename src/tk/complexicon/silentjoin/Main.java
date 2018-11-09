@@ -28,7 +28,7 @@ public class Main extends JavaPlugin implements Listener {
     int logSize;
     boolean informAdmins;
 
-    private SimpleDateFormat time = new SimpleDateFormat("HH:mm:ss");
+    private SimpleDateFormat time = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss");
 
     @Override
     public void onEnable() {
